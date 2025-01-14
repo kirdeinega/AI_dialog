@@ -16,7 +16,7 @@ This project simulates a dialog between two models, Anna and Bob, who are placed
 1. Clone the repository:
 
 ```sh
-    git clone <repository-url>
+    git clone https://github.com/kirdeinega/AI_dialog
     cd <repository-directory>
 ```
 
